@@ -71,7 +71,7 @@ function App() {
               Send me a birthday treat via bKash so we can celebrate together.
             </p>
             <a
-              href="https://shop.bkash.com/abraham-shop01334124050/pay/bdt250/nmqCGW"
+              href="https://shop.bkash.com/abraham-shop01334124050/pay/bdt1000/l1FSvW"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-white text-green-700 font-bold text-xl px-10 py-4 rounded-full shadow-lg hover:shadow-2xl hover:scale-110 transition-all duration-300 transform hover:-translate-y-1"
